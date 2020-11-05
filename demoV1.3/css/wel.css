@@ -1,0 +1,22 @@
+.content{
+    width: 1025px;
+    margin: 0 auto;
+    text-align: center;
+}
+h1{
+    font-size: 30pt;
+}
+a{
+    font-size: 15pt;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    color: red;
+}
+img{
+    width: 1025px;
+    height: 587px;
+    margin: 0 auto;
+}
